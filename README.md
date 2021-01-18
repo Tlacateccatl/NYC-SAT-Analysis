@@ -1,5 +1,6 @@
 # NYC-SAT-Analysis
 NYC Unified School Districts SAT Score Analysis
+***
 
 New York City has published data on the SAT scores of students, along with additional demographic datasets. The SAT, or Scholastic Aptitude Test, is a test given to graduating high schoolers in the US every year. The SAT has 3 sections, each of which is worth a maximum of 800 points, for a total of 2400. The SAT, among other metrics, is used by universities to determine which students to admit. 
 
